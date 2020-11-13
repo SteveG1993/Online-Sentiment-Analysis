@@ -82,3 +82,6 @@ The incident that occurred during April 2018 had an observable but not lasting i
 The chart plots actual negative comments an expected number of negative comments. The green dots highlight days when the percentage change in negative comments exceeds 50 percent.
 
 ![](Reputation_Monitoring.svg?raw=true "Title")
+
+
+Thank you.
