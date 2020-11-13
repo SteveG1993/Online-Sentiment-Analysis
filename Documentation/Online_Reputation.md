@@ -58,9 +58,6 @@ Neutral comments are the most common during the crisis.
 ![](starbucks_sentiments_by_date.svg?raw=true "Title")
 
 
-
-
-
 Negative comments spiked after arrest and the day after Starbucks closed for training. Negative sentiments returned to baseline. Soon after.
 
 ![](Negative_Sentiments.svg?raw=true "Title")
@@ -75,7 +72,7 @@ The incident that occurred during April 2018 had an observable but not lasting i
 
 ## ADDITIONAL BRAND REPUTATION TASKS
 
-### Continual monitoring and Alerts
+### Continual Monitoring and Alerts
 
 - Set up recurring polling to detect mentions of the company that occur going forward to identify any emergent issues that need a response
 
