@@ -55,7 +55,7 @@ The number of discussions that mentioned Starbucks jumped from 325/day to over 1
 
 Neutral comments are the most common during the crisis.
 
-![](Starbucks_sentiments_by_date.svg?raw=true "Title")
+![](starbucks_sentiments_by_date.svg?raw=true "Title")
 
 
 
@@ -75,7 +75,7 @@ The incident that occurred during April 2018 had an observable but not lasting i
 
 ## ADDITIONAL BRAND REPUTATION TASKS
 
-### continual monitoring and Alerts
+### Continual monitoring and Alerts
 
 - Set up recurring polling to detect mentions of the company that occur going forward to identify any emergent issues that need a response
 
