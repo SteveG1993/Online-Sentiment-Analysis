@@ -81,4 +81,18 @@ The chart plots actual negative comments an expected number of negative comments
 ![](/Documentation/Reputation_Monitoring2.svg?raw=true "Title")
 
 
+### Topic Modeling
+
+Topic modeling can be used to identify, group and summarize the subjects of customer discourse.
+
+The Latent Dirichlet Allocation (LDA) algorithm can be used. Below is a graphical representation of LDA output.
+
+
+ ![](/Documentation/pyLDAvis.png?raw=true "Title")
+
+
+Once the topics are identified. The online comments can by studied for additional insight.
+
+ ![](/Documentation/Topics_to_Text.png?raw=true "Title")
+
 Thank you.
