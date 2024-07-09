@@ -11,4 +11,4 @@ singledispatch==3.4.0.3
 six==1.15.0
 typing==3.7.4.3
 virtualenv==20.2.1
-zipp==1.2.0
+zipp==3.19.1
