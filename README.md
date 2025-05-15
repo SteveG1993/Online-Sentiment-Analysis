@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-Positive public sentiment is one of a company&#39;s most valued assets. Companies should take practical steps to monitor what people are saying about their company and stay alert for any significant changes in public perception. With the advent of trained machine learning algorithms. It is possible to gauge the feelings that people have regarding a brand or company by interrogating written communications on social media.
+Positive public sentiment is one of a company&#39;s most valued assets. Companies should take proactive steps to monitor what people are saying about their company and stay alert for any significant changes in public perception. With the advent of trained machine learning algorithms. It is possible to gauge the feelings that people have regarding a brand or company by interrogating written communications on social media.
 
 ## CASE STUDY
 
